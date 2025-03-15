@@ -18,7 +18,6 @@
 # Sobre meu Projeto:
 > É uma calculadora.
 
-
 ## Contato:
 
 <div>
