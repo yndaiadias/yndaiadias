@@ -15,6 +15,10 @@
 >
 > E faço parte da **turma de exatas.**
 
+# Sobre meu Projeto:
+> É uma calculadora.
+
+
 ## Contato:
 
 <div>
